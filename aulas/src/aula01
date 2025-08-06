@@ -1,0 +1,12 @@
+Paradigma (na programação): Estilo de programar "programação estruturada, orientada a objetos etc"
+// A disciplina vai focar no paradigma de POO //
+                        *MVC*
+
+POO contém atributos (dados), métodos ("funções"/ comportamento).
+
+Encapsulamento: "guarda"/ mantém detalhes ocultos, expondo somente o que for necessário;
+
+Herança: Diferentes classes herdam caracteristicas de outras classes;
+
+Polimorfismo **
+

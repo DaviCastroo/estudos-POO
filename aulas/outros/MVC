@@ -1,0 +1,23 @@
+É uma arquitetura de software (padrão de desenvolvimento)
+
+Model - View - Controller
+(Modelo - Visão - Controlador)
+
+Visa dividir a aplicação em 3 camadas, citadas acima
+Separa a UI das regras de negócio
+
+Model: Responsavel pelo acesso e manipulação dos dados
+ - Funções de consulta de um BD
+ - API
+
+ View: Responsável pela UI apresentada ao usuário
+ -HTML
+ -Arquivos do template
+
+ Controller: Camada de controle
+ - Paralelo entre o model e o view
+ - Recebe as requisições do usuário, do Model, renderizando a saida das informações, através da View.
+
+ * Router: Responsável por criar rotas que ligam um endereço a um método, por exemplo.
+
+ Spring usa o MVC (Java)
