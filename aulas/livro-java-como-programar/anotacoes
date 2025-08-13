@@ -1,0 +1,6 @@
+Objetos/ classes são componentes reutilzaveis de software
+
+Os métodos são atributos, ações, que são armazenados dentro das classes ("funções" em C).
+
+Uma convenção boa de levar em consideração é: os nomes das classes iniciam com uma letra maiuscula, apresentando a letra inicial de cada palavra tbm maiuscula.
+

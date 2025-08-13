@@ -2,6 +2,9 @@ Paradigma (na programação): Estilo de programar "programação estruturada, or
 // A disciplina vai focar no paradigma de POO //
                         *MVC*
 
+*Classe é a generalização*
+*Os objetos são instâncias da classe*
+
 POO contém atributos (dados), métodos ("funções"/ comportamento).
 
 Encapsulamento: "guarda"/ mantém detalhes ocultos, expondo somente o que for necessário;
